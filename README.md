@@ -1,2 +1,3 @@
-# .github
-Home of APALACHE: symbolic model checker for TLA+ and Quint
+# Apalache
+
+See the main repository: https://github.com/apalache-mc/apalache
